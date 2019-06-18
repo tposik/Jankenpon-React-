@@ -1,6 +1,9 @@
 # JanKenPon
 <p> Rock Paper Scissor game made with react.js</p>
 
+<img src="jankenpon.gif">
+
+
 # WIP
 - [x] User buttons
 - [x] User/machine name
@@ -14,8 +17,5 @@
 - [ ] improve components
 - [ ] Integrate with socket.io for multiplayer option
 
-
-
-<img src="jankenpon.gif">
 
   
